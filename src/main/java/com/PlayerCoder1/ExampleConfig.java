@@ -1,4 +1,4 @@
-package com.example;
+package com.PlayerCoder1;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
